@@ -2,6 +2,11 @@
 
 - Graphical User Interface (GUI) folder contains my assignment portions of my project I did during the MS course - CS 5389.501 'Graphical User Interfaces'. The course covered both abstract and practical treatments of using graphics to implement interactive computer/human interfaces. Includes a survey of the major GUI standards and tools.
 
+- *SORRY for the oldie moldy UI!!!* 🙃 Our professor actually required us to use **only** **OLD version** of QT and opengl. Hence, the UI looks quite outdated straight from the 90's! 😅
+
+- Enjoy the antique look!!!! 🕰️😁
+
+
 - Part 1: Software Radio QT
 
 > Screenshot of the Basic Software Radio UI using QT4:
