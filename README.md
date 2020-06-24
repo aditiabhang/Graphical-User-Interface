@@ -17,6 +17,8 @@
 
 > Screenshot & gif of shapes and animation using QT and opengl:
 
+<img width="972" alt="shapes" src="https://user-images.githubusercontent.com/51350594/85622968-4673d000-b62d-11ea-82c4-e138aaf9ae01.png">
+
 ![Shapes_ _Animation](https://user-images.githubusercontent.com/51350594/85618013-c7c76480-b625-11ea-9934-67c78d67a429.png)
 
 
